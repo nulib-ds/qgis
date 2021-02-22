@@ -11,6 +11,8 @@ published: true
 
 ## [gis@northwestern.edu](mailto:gis@northwestern.edu)
 
-Slides: 
+Slides:
+<br>
 Data:
+<br>
 Workshop notes:
