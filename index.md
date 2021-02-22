@@ -3,7 +3,7 @@ layout: index
 published: true
 ---
 
-### Presenters
+## Presenters
 
 # Kelsey Rydland | Data Science Librarian
 # Méch Frazier | Geospatial Specialist
