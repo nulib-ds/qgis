@@ -7,7 +7,7 @@ published: true
 
 ### Kelsey Rydland | Data Science Librarian
 ### Méch Frazier | Geospatial Specialist
-## Geospatial and Data Services || Research Services || Northwestern University Libraries
+### Geospatial and Data Services || Research Services || Northwestern University Libraries
 
 ## [gis@northwestern.edu](mailto:gis@northwestern.edu)
 
