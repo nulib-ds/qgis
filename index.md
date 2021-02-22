@@ -13,4 +13,4 @@ published: true
 
 ## [gis@northwestern.edu](mailto:gis@northwestern.edu)
 
-Want to follow along the demo? [Download Data](/arcgis-online/_data/arconline_data_s21.zip){: .btn .btn-blue } 
+Want to follow along the demo? [Download Data](/arcgis-online/blob/gh-pages/_data/arconline_data_s21.zip){: .btn .btn-blue } 
