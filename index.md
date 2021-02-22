@@ -13,5 +13,4 @@ published: true
 
 ## [gis@northwestern.edu](mailto:gis@northwestern.edu)
 
-Want to follow along the demo? [Download Data Here](/gis-workshop-waml-template/content/data/us-national-parks.geojson){: .btn .btn-blue } 
-
+Want to follow along the demo? [Download Data Here](/arcgis-online/_data/arconline_data_s21.zip){: .btn .btn-blue } 
