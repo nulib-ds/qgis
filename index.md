@@ -13,9 +13,10 @@ Geospatial and Data Services | Research Services | Northwestern University Libra
 ###### Want to follow along the demo? [Download Data](/arcgis-online/blob/gh-pages/_data/arconline_data_s21.zip)
 <br>
 ### Goal of this workshop
-This workshop is meant to serve as an introduction to esri's ArcGIS Online web-based browser. It's *completely* fine if this is your first time using ArcGIS Online, or GIS in general! We're here to support you.
+This workshop is meant to serve as an introduction to esri's ArcGIS Online web-based browser. It's *completely* fine if this is your first time using ArcGIS Online, or GIS in general! We're here to support you.<br>
 
-We'll familiarize you basic GIS concepts, tools, and functions commonly used to build a web map and web mapping application.
+
+We'll familiarize you basic GIS concepts, tools, and functions commonly used to build a web map and web mapping application. <br>
 
 
 Web mapping applications are colloquially referred to as StoryMaps - like this one:
