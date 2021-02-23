@@ -27,4 +27,4 @@ Web mapping applications are colloquially referred to as StoryMaps - like this o
 
 [//]: # "Change this story map for each workshop"
 
-# Add how to communicate via Zoom
+# Add how to communicate via Zoom 
