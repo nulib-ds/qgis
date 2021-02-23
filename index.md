@@ -16,7 +16,8 @@ Geospatial and Data Services | Research Services | Northwestern University Libra
 This workshop is meant to serve as an introduction to esri's ArcGIS Online web-based browser. It's *completely* fine if this is your first time using ArcGIS Online, or GIS in general! We're here to support you.
 
 We'll familiarize you basic GIS concepts, tools, and functions commonly used to build a web map and web mapping application.
-<br>
+
+
 Web mapping applications are colloquially referred to as StoryMaps - like this one:
 
 <html>
