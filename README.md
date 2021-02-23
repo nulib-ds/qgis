@@ -1,7 +1,9 @@
-# An open-source project for creating online courses, built by P2PU
-Course-in-a-Box is a free tool for building and publishing online courses — no prior coding experience required. 
+# Introduction to ArcGIS Online workshop
+We host our workshop materials through GitHub, a free and open-source software hosting platform. Here you'll find the backend of our workshop. 
 
-To create your own course, simply fork this repository and delete the CNAME file. Detailed documentation is available at [course-in-a-box.p2pu.org](https://course-in-a-box.p2pu.org).
+To change background images, banners, icons, maps and more, go to '_img'. 
+
+To change the main page go to 'index.md'. 
 
 To make changes to the template itself, a good place to start is the [`_layouts`](/_layouts), [`_includes`](/_includes) and [`css`](/css) directories. These directories contain all the layout and style files used.
 
