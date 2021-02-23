@@ -17,3 +17,9 @@ This workshop is meant to serve as an introduction to esri's ArcGIS Online web-b
 
 We'll familiarize you basic GIS concepts, tools, and functions commonly used to build a web map and web mapping application (aka a StoryMap). 
 
+# Add story map example 
+# Add how to communicate via Zoom
+# 
+<html>
+  <h1> does this work? </h1>
+  </html>
