@@ -10,7 +10,11 @@ published: true
 Geospatial and Data Services | Research Services | Northwestern University Libraries <br>
 #### [gis@northwestern.edu](mailto:gis@northwestern.edu)
 
-###### Want to follow along the demo? [Download Data](_data/arconline_data_s21.zip)
+<br>
+* *1*{: .circle .circle-grey} `.circle-grey`Drop your name and institution you're affiliated with in chat!
+<br>
+
+###### Want to follow along the demo? [Download Data](https://github.com/nulib-ds/arcgis-online/blob/gh-pages/_data/arconline_data_s21.zip)
 <br>
 ### Goal of this workshop
 This workshop is meant to serve as an introduction to esri's ArcGIS Online web-based browser. It's *completely* fine if this is your first time using ArcGIS Online, or GIS in general! We're here to support you.<br>
@@ -28,3 +32,6 @@ Web mapping applications are colloquially referred to as StoryMaps - like this o
 [//]: # "Change this story map for each workshop"
 
 # Add how to communicate via Zoom 
+<html>
+<div class="content-box-blue">Enter content box text here.</div>
+  </html>
