@@ -36,7 +36,7 @@ Web mapping applications are also referred to as StoryMaps - like this one:
 <br>
 
 
-### Want to follow along the demo? <a class="btn btn-primary" href="https://github.com/nulib-ds/arcgis-online/blob/gh-pages/_data/arconline_data_s21.zip"><i class="fa fa-home"></i> Download Data</a>
+### Want to follow along the demo? <html> <a class="btn btn-primary" href="https://github.com/nulib-ds/arcgis-online/blob/gh-pages/_data/arconline_data_s21.zip"><i class="fa fa-home"></i> Download Data</a> </html>
 
 <html>
 <div class="content-box-blue">Enter content box text here.</div>
