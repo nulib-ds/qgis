@@ -8,15 +8,18 @@ published: true
 <br>
 
 ### Presenters
-> Kelsey Rydland | Data Science Librarian <br>
-> Méch Frazier | Geospatial Specialist <br>
-Geospatial and Data Services | Research Services | Northwestern University Libraries <br>
+> Kelsey Rydland * Data Science Librarian <br>
+> Méch Frazier * Geospatial Specialist <br>
+Geospatial and Data Services * Research Services * Northwestern University Libraries <br>
 
-<center> #### [gis@northwestern.edu](mailto:gis@northwestern.edu)</center>
+<center>
+#### [gis@northwestern.edu](mailto:gis@northwestern.edu)
+</center>
 
 <br>
 
 * Drop your name and institution you're affiliated with in chat!
+
 * Want to follow along the demo? <a class="btn btn-primary" href="https://github.com/nulib-ds/arcgis-online/blob/gh-pages/_data/arconline_data_s21.zip"><i class="fa fa-home"></i> Download Data</a>
 
 <br>
