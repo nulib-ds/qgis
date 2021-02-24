@@ -8,11 +8,11 @@ published: true
 <br>
 
 ### Presenters
-> Kelsey Rydland | Data Science Librarian <br>
-> Méch Frazier | Geospatial Specialist <br>
-Geospatial and Data Services | Research Services | Northwestern University Libraries <br>
+> Kelsey Rydland - Data Science Librarian <br>
+> Méch Frazier - Geospatial Specialist <br>
+Geospatial and Data Services - Research Services - Northwestern University Libraries <br>
 
-#### [gis@northwestern.edu](mailto:gis@northwestern.edu)
+#### <center> [gis@northwestern.edu](mailto:gis@northwestern.edu) </center>
 
 <br>
 
