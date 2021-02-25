@@ -14,7 +14,7 @@ Geospatial and Data Services - Northwestern University Libraries <br>
 
 <center>
   <h3 style="color:purple;"><a href="mailto:gis@northwestern.edu?subject=GIS support"> gis@northwestern.edu </a></h3>
-
+</center>
 <br>
 
 <ul>
@@ -24,7 +24,7 @@ Geospatial and Data Services - Northwestern University Libraries <br>
 
 <li>Want to follow along the demo? <a class="btn btn-primary" href="https://github.com/nulib-ds/arcgis-online/blob/gh-pages/_data/arconline_data_s21.zip"><i class="fa fa-home"></i> Download Data</a></li>
 </ul>
-</center>
+
 <br>
 
 ### Goal of this workshop
