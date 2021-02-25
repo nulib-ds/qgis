@@ -17,7 +17,9 @@ Geospatial and Data Services - Northwestern University Libraries <br>
 
 <br>
 
-* Drop your name and institution you're affiliated with in chat!<br>
+* Drop your name and institution you're affiliated with in chat!
+
+<br>
 
 * Want to follow along the demo? <a class="btn btn-primary" href="https://github.com/nulib-ds/arcgis-online/blob/gh-pages/_data/arconline_data_s21.zip"><i class="fa fa-home"></i> Download Data</a>
 </center>
