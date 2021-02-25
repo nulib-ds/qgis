@@ -14,7 +14,6 @@ Geospatial and Data Services - Northwestern University Libraries <br>
 
 <center>
   <h3 style="color:purple;"><a href="mailto:gis@northwestern.edu?subject=GIS support"> gis@northwestern.edu </a></h3>
-</center>
 
 <br>
 
