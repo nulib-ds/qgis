@@ -3,7 +3,7 @@ title: Data Types and Formats
 ---
 <html>
   
-<h4>Data types</h4> are attributes that specify the type of data an object can hold. 
+<h4>Data types</h4> are attributes that specify the type of data an object can hold.</html>
 
 <br>
 
@@ -13,7 +13,7 @@ title: Data Types and Formats
 
 <br>
 
-<h4>Data formats</h4> are specific or preferred file extensions for sharing, re-use, and preserving data. </html>
+<html><h4>Data formats</h4> are specific or preferred file extensions for sharing, re-use, and preserving data. </html>
 
 <br>
 
