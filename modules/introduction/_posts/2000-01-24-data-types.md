@@ -16,12 +16,12 @@ A <h4> data format </h4> is the specific or preferred file extensions for sharin
 <br>
 
 > Vector data includes data formats like *shapefiles*. Shapefiles are GIS-specific data formats that are used in both proprietary and open-source software. 
-> ![vector_example](/arcgis-online/_posts/vector_examples.png)
+> ![vector_example](/arcgis-online/img/vector_examples.png)
 
 <br>
 
 > Raster data stores data in a grid of cells, where each cell holds a value. 
-> ![raster_example](/arcgis-online/_posts/raster_examples.png)
+> ![raster_example](/arcgis-online/img/raster_examples.png)
 
 <br>
 
