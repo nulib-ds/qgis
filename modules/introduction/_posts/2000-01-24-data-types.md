@@ -11,7 +11,7 @@ In GIS we use two main data types:
 
 <br>
 
-A <h4> data format </h4> is the specific or preferred file extensions for sharing, re-use, and preserving data. 
+A <h4> data format </h4> is the specific or preferred file extensions for sharing, re-use, and preserving data. </html>
 
 <br>
 
@@ -25,6 +25,8 @@ A <h4> data format </h4> is the specific or preferred file extensions for sharin
 
 <br>
 
+<html>
+  
 For today's workshop, we'll only be using vector data, as raster data tends to be larger and slower to work with. 
 
 If you're interested in using raster data, or have a question on raster data you've already procured, send us an email at <a href="mailto:gis@northwestern.edu?subject=GIS support"> gis@northwestern.edu </a> and we can help you out. 
