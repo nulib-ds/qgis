@@ -24,4 +24,4 @@ A <h4> data format </h4> is the specific or preferred file extensions for sharin
 
 <br>
 
-For today's workshop, we'll only be using vector data., as raster data tends to be larger and slower to work with. If you're interested in using raster data, or have a question on raster data you've already procured, send us an email at (gis@northwestern.edu)[mailto:gis@northwestern.edu] and we can help you out. 
+For today's workshop, we'll only be using vector data., as raster data tends to be larger and slower to work with. If you're interested in using raster data, or have a question on raster data you've already procured, send us an email at <a href="mailto:gis@northwestern.edu?subject=GIS support"> gis@northwestern.edu </a> and we can help you out. 
