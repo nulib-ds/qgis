@@ -3,7 +3,7 @@ title: Data Types and Formats
 ---
 <html>
   
-A <h4>data type</h4> is an attribute that specifies the type of data that the object can hold. 
+<h4>Data types</h4> are attributes that specify the type of data an object can hold. 
 
 In GIS we use two main data types:
 1) Vector  
@@ -11,7 +11,7 @@ In GIS we use two main data types:
 
 <br>
 
-A <h4>data format</h4> is the specific or preferred file extensions for sharing, re-use, and preserving data. </html>
+<h4>Data formats</h4> are specific or preferred file extensions for sharing, re-use, and preserving data. </html>
 
 <br>
 
