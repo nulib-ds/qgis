@@ -8,8 +8,8 @@ title: Data Types and Formats
 <br>
 
 > In GIS we use two main data types:<br>
-> 1) Vector<br>
-> 2) Raster 
+> 1) **Vector**<br>
+> 2) **Raster** 
 
 <br>
 
