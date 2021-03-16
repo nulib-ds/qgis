@@ -11,7 +11,9 @@ published: true
   <li>Drop your name and institution you're affiliated with in chat!</li><br>
   <li>Don't have an ArcOnline account yet? Create one <a href="https://northwestern.maps.arcgis.com/home/index.html">here</a>.</li><br>
   <li>Want to follow along the demo? <a class="btn btn-primary" href="https://minhaskamal.github.io/DownGit/#/home?url=https://github.com/nulib-ds/arcgis-online/blob/gh-pages/gis-data/arconline_data_s21.zip"><i class="fa fa-home"></i> Download Data</a></li>
-</ul>
+ </ul>
+ 
+[Download Data](/arcgis-online/gis-data/arconline_data_s21.zip){: .btn .btn-blue }
 
 <br>
 
