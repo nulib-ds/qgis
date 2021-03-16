@@ -8,9 +8,9 @@ published: true
 <br>
 
 <ul>
-  <li>Drop your name and institution you're affiliated with in chat!</li><br>
-  <li>Don't have an ArcOnline account yet? Create one <a href="https://northwestern.maps.arcgis.com/home/index.html">here</a>.</li><br></ul>
-* Want to follow along the demo? [Download Data](/arcgis-online/gis-data/arconline_data_s21.zip){:.btn .btn-blue}
+* Drop your name and institution you're affiliated with in chat!
+* Don't have an ArcOnline account yet? Create one <a href="https://northwestern.maps.arcgis.com/home/index.html">here</a>
+* Want to follow along the demo? [Download Data](/arcgis-online/gis-data/arconline_data_s21.zip){: .btn .btn-blue } 
 
 <br>
 
