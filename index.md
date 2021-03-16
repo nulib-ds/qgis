@@ -40,4 +40,4 @@ By the end of this workshop you will be able to:
 
 <br>
 
-<iframe src="https://northwestern.maps.arcgis.com/apps/MapJournal/index.html?appid=4c5dccabdc5540e590972b00eb755562" width=1000px height=900px></iframe>
+<iframe src="https://northwestern.maps.arcgis.com/apps/MapJournal/index.html?appid=4c5dccabdc5540e590972b00eb755562" width=900px height=700px></iframe>
