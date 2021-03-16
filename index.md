@@ -7,6 +7,14 @@ published: true
 
 <br>
 
+<ul>
+  <li>Drop your name and institution you're affiliated with in chat!</li><br>
+  <li>Don't have an ArcOnline account yet? Create one <a href="https://northwestern.maps.arcgis.com/home/index.html">here</a>.</li><br>
+  <li>Want to follow along the demo? <a class="btn btn-primary" href="https://github.com/nulib-ds/arcgis-online/blob/gh-pages/_data/arconline_data_s21.zip"><i class="fa fa-home"></i> Download Data</a></li>
+</ul>
+
+<br>
+
 ### Presenters
 > Kelsey Rydland - Data Science Librarian <br>
 > Méch Frazier - Geospatial Specialist <br>
@@ -15,15 +23,6 @@ Geospatial and Data Services - Northwestern University Libraries <br>
 <center>
   <h3 style="color:purple;"><a href="mailto:gis@northwestern.edu?subject=GIS support"> gis@northwestern.edu </a></h3>
 </center>
-<br>
-
-<ul>
-  <li>Drop your name and institution you're affiliated with in chat!</li>
-
-<br>
-
-<li>Want to follow along the demo? <a class="btn btn-primary" href="https://github.com/nulib-ds/arcgis-online/blob/gh-pages/_data/arconline_data_s21.zip"><i class="fa fa-home"></i> Download Data</a></li>
-</ul>
 
 <br>
 
@@ -41,4 +40,4 @@ By the end of this workshop you will be able to:
 
 <br>
 
-  <style>.embed-container {position: relative; padding-bottom: 80%; height: 0; max-width: 100%;} .embed-container iframe, .embed-container object, .embed-container iframe{position: absolute; top: 0; left: 0; width: 100%; height: 100%;} small{position: absolute; z-index: 40; bottom: 0; margin-bottom: -15px;}</style><div class="embed-container"><iframe width="700" height="600" frameborder="0" scrolling="yes" marginheight="0" marginwidth="0" title="An Examination of Chicago's Ballot Drop-Boxes" src="https://northwestern.maps.arcgis.com/apps/MapJournal/index.html?appid=4c5dccabdc5540e590972b00eb755562"></iframe></div>
+  <style>.embed-container {position: relative; padding-bottom: 80%; height: 0; max-width: 100%;} .embed-container iframe, .embed-container object, .embed-container iframe{position: absolute; top: 0; left: 0; width: 100%; height: 100%;} small{position: absolute; z-index: 40; bottom: 0; margin-bottom: -15px;}</style><div class="embed-container"><iframe width="1200" height="1100" frameborder="0" scrolling="yes" marginheight="0" marginwidth="0" title="An Examination of Chicago's Ballot Drop-Boxes" src="https://northwestern.maps.arcgis.com/apps/MapJournal/index.html?appid=4c5dccabdc5540e590972b00eb755562"></iframe></div>
