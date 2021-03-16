@@ -8,8 +8,9 @@ published: true
 <br>
 
 * Drop your name and institution you're affiliated with in chat!
-* Don't have an ArcOnline account yet? Create one <a href="https://northwestern.maps.arcgis.com/home/index.html">here</a>
+* Don't have an ArcOnline account yet? Create one <a href="https://northwestern.maps.arcgis.com/home/index.html">here.</a>
 * Want to follow along the demo? [Download Data](/arcgis-online/gis-data/arconline_data_s21.zip){: .btn .btn-blue } 
+* [Download Data](../data/us-national-parks.geojson){: .btn .btn-blue }
 
 <br>
 
