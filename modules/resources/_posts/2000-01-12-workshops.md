@@ -8,4 +8,4 @@ title: Workshop schedule
 
 <br>
 
-# 🌐 💚 🌏 Thank you for attending! 🌏 💚 🌐
+# 🌐 💚 🌏 Thank you for attending & happy mapping! 🌏 💚 🌐
