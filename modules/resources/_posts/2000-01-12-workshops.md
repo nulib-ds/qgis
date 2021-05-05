@@ -8,8 +8,8 @@ title: Workshop schedule
 
 <br>
 
-https://planitpurple.northwestern.edu/#search=/0/8//%22GIS%22 
+<iframe src="https://planitpurple.northwestern.edu/#search=/0/8//%22GIS%22 " width=800px height=600px></iframe> 
 
-
+<br>
 
 # 🌐 🌏 Thank you for attending! 🌏 🌐
