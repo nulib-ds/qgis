@@ -22,7 +22,7 @@ title: Data Types and Formats
 > ![vector_example](/arcgis-online/img/vector_examples.png)
 <h7><a href="https://gsp.humboldt.edu/olm/Lessons/GIS/08%20Rasters/RasterToVector.html">Humbolt State University</a></h7>
 
-<br>
+<br> Add csv as a type of format
 
 > Raster data stores information in a grid of cells, where each cell holds a value.
 > 
