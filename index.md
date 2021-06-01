@@ -8,7 +8,7 @@ published: true
 <br>
 
 * Drop your name and institution you're affiliated with in chat!
-* Don't have an ArcOnline account yet? Create one <a href="https://northwestern.maps.arcgis.com/home/index.html">here.</a>
+* Don't have QGIS downloaded yet? Get it <a href="https://www.qgis.org/en/site/forusers/download.html">here.</a>
 * Want to follow along the demo? [Download Data](/arcgis-online/gis-data/arconline_data_s21.zip)
 
 <br>
