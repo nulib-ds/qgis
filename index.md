@@ -25,7 +25,7 @@ Geospatial and Data Services - Northwestern University Libraries <br>
 <br>
 
 ### Goal of this workshop
-> This workshop is meant to serve as an introduction to esri's ArcGIS Online web-based browser. It's *completely* fine if this is your first time using ArcGIS Online, or GIS in general. We're here to support you.
+> This workshop is meant to serve as an introduction to the open-sourced application QGIS. It's *completely* fine if this is your first time using QGIS, or GIS in general. We're here to support you.
 
 <br>
 
