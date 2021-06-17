@@ -1,10 +1,6 @@
 # Introduction to QGIS workshop
-This workshop was made using the [P2PU Course-in-a-box](https://course-in-a-box.p2pu.org/) template. We host our workshop materials through GitHub, a free and open-source software hosting platform. Here you'll find the backend of our workshop. 
+This workshop was made using the [P2PU Course-in-a-box](https://course-in-a-box.p2pu.org/) template. We host our workshop materials through GitHub, a free and open-source software hosting platform. 
 
-> The goal of this workshop is to familiarize yourself with basic introductory web GIS concepts and have a better idea of what resources are available to you at Northwestern. 
+This workshop presents a brief history of GIS and its applications, followed by a demonstration using QGIS, which you can download [here](https://qgis.org/en/site/). 
 
-To change background images, banners, icons, maps and more, go to `img`. 
-
-To change the main page of this website go to `index.md`. 
-
-To add, edit, and delete modules go to `modules`. 
+The Geospatial and Data Services Team at Northwestern University Libraries
