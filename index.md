@@ -31,11 +31,12 @@ Geospatial and Data Services - Northwestern University Libraries <br>
 
 By the end of this workshop you will be able to: 
 
-* Define what GIS and web GIS is
+* Understand what GIS is
 * Identify different types of GIS data and formats
-* Understand basic mapping functions + tools
-* Create a web map using ArcOnline, like this one: 
+* Knowledge of basic analysis functions
+* Resources and support opportunities 
+* Ability to make and export a map using QGIS like this one:
 
 <br>
 
-<iframe src="https://northwestern.maps.arcgis.com/apps/MapJournal/index.html?appid=4c5dccabdc5540e590972b00eb755562" width=900px height=700px></iframe>
+<add photo of endangered longbill>
