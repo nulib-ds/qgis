@@ -5,4 +5,4 @@ This workshop presents a brief history of GIS and its applications, followed by 
 
 The Geospatial and Data Services Team at Northwestern University Libraries is dedicated to helping you with your geospatial analysis, visualization and data management needs. 
 
-## If you have questions about your GIS project, please reach out to us at [gis@northwestern.edu](mailto:gis@northwestern.edu). 
+## If you have questions about your GIS project, please reach out to us at [gis@northwestern.edu](mailto:gis@northwestern.edu)
