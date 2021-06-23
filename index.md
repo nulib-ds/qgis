@@ -39,4 +39,4 @@ By the end of this workshop you will be able to:
 
 <br>
 
-<add photo of endangered longbill>
+![Pulitzer's Longbill](/qgis/img/Pulitzers_Longbill.jpeg)
