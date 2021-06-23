@@ -17,7 +17,7 @@ published: true
 > Kelsey Rydland - Data Science Librarian <br>
 > Méch Frazier - Geospatial Specialist <br>
 
-Geospatial and Data Services - Northwestern University Libraries <br>
+Geospatial and Data Services - Northwestern University Libraries
 
 <center>
   <h3 style="color:purple;"><a href="mailto:gis@northwestern.edu?subject=GIS support"> gis@northwestern.edu </a></h3>
@@ -27,7 +27,6 @@ Geospatial and Data Services - Northwestern University Libraries <br>
 
 ### Goal of this workshop
 > This workshop is meant to serve as an introduction to the open-sourced application QGIS. It's *completely* fine if this is your first time using QGIS, or GIS in general. We're here to support you.
-
 <br>
 
 By the end of this workshop you will be able to: 
