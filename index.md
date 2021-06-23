@@ -39,4 +39,4 @@ By the end of this workshop you will be able to:
 
 <br>
 
-![Pulitzer's Longbill](/qgis/img/Pulizters_Longbill.jpeg){:height="1000px" width="1200px"}
+![Pulitzer's Longbill](/qgis/img/Pulizters_Longbill.jpeg){:height="900px" width="1100px"}
