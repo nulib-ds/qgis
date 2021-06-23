@@ -26,6 +26,7 @@ Geospatial and Data Services - Northwestern University Libraries
 
 ### Goal of this workshop
 > This workshop is meant to serve as an introduction to the open-sourced application QGIS. It's *completely* fine if this is your first time using QGIS, or GIS in general. We're here to support you.
+
 <br>
 
 By the end of this workshop you will be able to: 
