@@ -39,4 +39,4 @@ By the end of this workshop you will be able to:
 
 <br>
 
-![Pulitzer's Longbill](/qgis/img/Pulitzers_Longbill.jpeg)
+![Pulitzer's Longbill](/qgis/img/Pulizters_Longbill.jpeg)
