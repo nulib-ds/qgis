@@ -32,8 +32,9 @@ title: Data Types and Formats
 
 <br>
 
-> Tabular data stores column and
+> Tabular data stores data in columns and rows. 
 > You can read-in stand-alone tables, or geocode addresses and lat/long coordinates. 
+> The most common types of formats you'll work with are .txt and .csv 
 
 <html>
   
