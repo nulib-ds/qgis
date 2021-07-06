@@ -7,9 +7,10 @@ title: Data Types and Formats
 
 <br>
 
-> GIS uses two main data types:<br>
+> GIS uses three main data types:<br>
 > 1) **Vector**<br>
-> 2) **Raster** 
+> 2) **Raster** <br>
+> 3) **Tabular**
 
 <br>
 
@@ -22,7 +23,7 @@ title: Data Types and Formats
 > ![vector_example](/qgis/img/vector_examples.png)
 <h7><a href="https://gsp.humboldt.edu/olm/Lessons/GIS/08%20Rasters/RasterToVector.html">Humbolt State University</a></h7>
 
-<br> Add csv as a type of format
+<br>
 
 > Raster data stores information in a grid of cells, where each cell holds a value.
 > 
@@ -30,6 +31,9 @@ title: Data Types and Formats
 <h7><a href="https://ucladataguides.readthedocs.io/en/latest/working_with_mapping/agol.html">UCLA</a></h7>
 
 <br>
+
+> Tabular data stores column and
+> You can read-in stand-alone tables, or geocode addresses and lat/long coordinates. 
 
 <html>
   
