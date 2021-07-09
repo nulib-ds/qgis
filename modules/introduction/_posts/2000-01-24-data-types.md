@@ -31,7 +31,9 @@ title: Data Types and Formats
 <h7><a href="https://ucladataguides.readthedocs.io/en/latest/working_with_mapping/agol.html">UCLA</a></h7>
 
 <br>
+
 For today's workshop, we'll only be using vector data, as raster data tends to be larger and slower to work with. 
+
 <br>
 
 > Tabular data is stored as columns and rows. 
