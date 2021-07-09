@@ -35,7 +35,7 @@ title: Data Types and Formats
 > Tabular data stores data in columns and rows. 
 > You can read-in stand-alone tables, or geocode addresses and lat/long coordinates. 
 > The most common types of formats you'll work with are .txt and .csv 
-> ![tabular example](
+> ![tabular example](/qgis/img/csv_template.png)
 
 
 
