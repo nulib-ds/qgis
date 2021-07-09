@@ -32,7 +32,7 @@ title: Data Types and Formats
 
 <br>
 
-> Tabular data stores data in columns and rows. 
+> Tabular data is stored as columns and rows. 
 > \
 > You can read-in stand-alone tables, or geocode addresses and lat/long coordinates. 
 > \
