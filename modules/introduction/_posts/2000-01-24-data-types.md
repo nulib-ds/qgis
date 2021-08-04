@@ -42,6 +42,7 @@ For today's workshop, we'll only be using vector data, as raster data tends to b
 > \
 > The most common formats you'll work with are .txt and .csv 
 > \
+> 
 > ![tabular example](/qgis/img/csv_template.png)
 
 <br>
