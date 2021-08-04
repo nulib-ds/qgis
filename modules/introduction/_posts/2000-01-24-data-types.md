@@ -40,7 +40,7 @@ For today's workshop, we'll only be using vector data, as raster data tends to b
 > \
 > You can read-in stand-alone tables, or geocode addresses and lat/long coordinates. 
 > \
-> The most common types of formats you'll work with are .txt and .csv 
+> The most common formats you'll work with are .txt and .csv 
 > \
 > ![tabular example](/qgis/img/csv_template.png)
 
