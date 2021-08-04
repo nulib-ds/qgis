@@ -18,14 +18,14 @@ title: Data Types and Formats
 
 <br>
 
-> Vector data includes formats like *shapefiles*. Shapefiles are GIS-specific data formats used in both proprietary and open-source software. 
+> *Vector data* includes formats like *shapefiles*. Shapefiles are GIS-specific data formats used in both proprietary and open-source software. 
 > 
 > ![vector_example](/qgis/img/vector_examples.png)
 <h7><a href="https://gsp.humboldt.edu/olm/Lessons/GIS/08%20Rasters/RasterToVector.html">Humbolt State University</a></h7>
 
 <br>
 
-> Raster data stores information in a grid of cells, where each cell holds a value.
+> *Raster data* stores information in a grid of cells, where each cell holds a value.
 > 
 > ![raster_example](/qgis/img/raster_examples.png)
 <h7><a href="https://ucladataguides.readthedocs.io/en/latest/working_with_mapping/agol.html">UCLA</a></h7>
@@ -36,7 +36,7 @@ For today's workshop, we'll only be using vector data, as raster data tends to b
 
 <br>
 
-> Tabular data is stored as columns and rows. 
+> *Tabular data* is stored as columns and rows. 
 > \
 > You can read-in stand-alone tables, or geocode addresses and lat/long coordinates. 
 > \
