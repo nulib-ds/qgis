@@ -27,7 +27,8 @@ title: Data Types and Formats
 
 > **Raster data** stores information in a grid of cells, where each cell holds a value.
 > <p align="center">
-> ![raster_example](/qgis/img/raster_examples.png)</p>
+> ![raster_example](/qgis/img/raster_examples.png)
+> </p>
 <h7><a href="https://ucladataguides.readthedocs.io/en/latest/working_with_mapping/agol.html">UCLA</a></h7>
 
 <br>
