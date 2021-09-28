@@ -32,9 +32,6 @@ title: Data Types and Formats
 
 <br>
 
-For today's workshop, we'll only be using vector data, as raster data tends to be larger and slower to work with. 
-
-<br>
 
 > **Tabular data** is stored as columns and rows. 
 > \
@@ -44,5 +41,9 @@ For today's workshop, we'll only be using vector data, as raster data tends to b
 > \
 > 
 > ![tabular example](/qgis/img/csv_template.png)
+
+<br>
+
+For today's workshop, we'll only be using vector data, as raster data tends to be larger and slower to work with. 
 
 <br>
