@@ -15,16 +15,12 @@ published: true
 > Geospatial and Data Services - Northwestern University Libraries
 
 <br>
-  <br>
-    <br>
     
 <center>
   <h3 style="color:purple;"><a href="mailto:gis@northwestern.edu?subject=GIS support"> gis@northwestern.edu </a></h3>
 </center>
 
 <br>
-  <br>
-    <br>
     
 > * Don't have QGIS downloaded yet? Get it [here.](https://www.qgis.org/en/site/forusers/download.html)
 > 
