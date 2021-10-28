@@ -30,14 +30,14 @@ published: true
   <br>
     <br>
 
-### **Goal of this workshop**
+### **Workshop Goal**
 > This workshop is meant to serve as an introduction to the open-sourced application QGIS. It's *completely* fine if this is your first time using QGIS, or GIS in general. We're here to support you.
 
 <br>
   <br>
     <br>
 
-### **By the end of this workshop you will be able to:** 
+### **Learning Outcomes** 
 > * Understand what GIS is
 > 
 > * Identify different types of GIS data and formats
