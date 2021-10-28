@@ -3,20 +3,23 @@ title: Data Types and Formats
 ---
 <html>
   
-<h4>Data types</h4> are attributes that specify the type of data an object can hold.</html>
+### **Data types**
+are attributes that specify the type of data an object can hold.
+
+> GIS uses three main data types:
+>
+> **1) Vector**
+>
+> **2) Raster**
+>
+> **3) Tabular**
 
 <br>
+  <br>
+    <br>
 
-> GIS uses three main data types:<br>
-> 1) **Vector**<br>
-> 2) **Raster** <br>
-> 3) **Tabular**
-
-<br>
-
-<html><h4>Data formats</h4> are specific or preferred file extensions for sharing, re-use, and preserving data. </html>
-
-<br>
+### **Data formats**
+are specific or preferred file extensions for sharing, re-use, and preserving data.
 
 > **Vector data** includes formats like *shapefiles*. Shapefiles are GIS-specific data formats used in both proprietary and open-source software. 
 > 
@@ -24,6 +27,8 @@ title: Data Types and Formats
 <h7><a href="https://gsp.humboldt.edu/olm/Lessons/GIS/08%20Rasters/RasterToVector.html">Humbolt State University</a></h7>
 
 <br>
+  <br>
+    <br>
 
 > **Raster data** stores information in a grid of cells, where each cell holds a value. 
 > 
@@ -31,14 +36,14 @@ title: Data Types and Formats
 <h7><a href="https://ucladataguides.readthedocs.io/en/latest/working_with_mapping/agol.html">UCLA</a></h7>
 
 <br>
-
+   <br>
+      <br>
 
 > **Tabular data** is stored as columns and rows. 
-> \
+> 
 > You can read-in stand-alone tables, or geocode addresses and lat/long coordinates. 
-> \
+> 
 > The most common formats you'll work with are .txt and .csv 
-> \
 > 
 > ![tabular example](/qgis/img/csv_template.png)
 
