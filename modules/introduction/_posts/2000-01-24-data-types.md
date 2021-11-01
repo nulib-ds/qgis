@@ -23,7 +23,7 @@ are specific or preferred file extensions for sharing, re-use, and preserving da
 > **Vector data** includes formats like *shapefiles*. Shapefiles are GIS-specific data formats used in both proprietary and open-source software. 
 > 
 > ![vector_example](/qgis/img/vector_examples.png)
-<h7><a href="https://gsp.humboldt.edu/olm/Lessons/GIS/08%20Rasters/RasterToVector.html">Humbolt State University</a></h7>
+> <h7><a href="https://gsp.humboldt.edu/olm/Lessons/GIS/08%20Rasters/RasterToVector.html">Humbolt State University</a></h7>
 
 <br>
   <br>
