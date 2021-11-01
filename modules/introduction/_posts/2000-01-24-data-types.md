@@ -32,7 +32,7 @@ are specific or preferred file extensions for sharing, re-use, and preserving da
 > **Raster data** stores information in a grid of cells, where each cell holds a value. 
 > 
 > ![raster_example](/qgis/img/raster_examples.png)
-<h7><a href="https://ucladataguides.readthedocs.io/en/latest/working_with_mapping/agol.html">UCLA</a></h7>
+> <h7><a href="https://ucladataguides.readthedocs.io/en/latest/working_with_mapping/agol.html">UCLA</a></h7>
 
 <br>
    <br>
