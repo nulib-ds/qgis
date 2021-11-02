@@ -4,16 +4,14 @@ title: Tutorials and Workflows
 
 Check out the pages below if you want more practice or documentation on tools covered in today's demo. 
 
-### [**Add Data to Map**](https://doc.arcgis.com/en/arcgis-online/manage-data/add-items.htm)
+### [**Add Data to Map**](https://www.qgistutorials.com/en/docs/3/making_a_map.html)
 
-### [**Spatial Joins**](https://doc.arcgis.com/en/arcgis-online/analyze/join-features.htm)
+### [**Spatial Joins**](https://www.qgistutorials.com/en/docs/3/performing_spatial_joins.html)
 
-### [**Select by Location**](https://doc.arcgis.com/en/arcgis-online/analyze/derive-new-locations.htm)
+### [**Select by Location**](https://freegistutorial.com/how-to-use-select-features-by-area-in-qgis/)
 
-### [**Symbolizing in ArcOnline**](https://learn.arcgis.com/en/projects/design-symbology-for-a-thematic-map/arcgis-online/)
+### [**Layer Styling in QGIS**](https://www.qgistutorials.com/en/docs/3/basic_vector_styling.html)
 
-### [**Buffer Analysis**](https://doc.arcgis.com/en/arcgis-online/analyze/create-buffers.htm)
+### [**Buffer Analysis**](https://docs.qgis.org/3.16/en/docs/gentle_gis_introduction/vector_spatial_analysis_buffers.html)
 
-### [**How to Make a Story Map**](https://storymaps-classic.arcgis.com/en/how-to/)
-
-### [**Enrichment Analysis**](https://doc.arcgis.com/en/arcgis-online/analyze/enrich-layer.htm)
+### [**Creating a Print Layout**](https://docs.qgis.org/3.16/en/docs/training_manual/map_composer/map_composer.html)
