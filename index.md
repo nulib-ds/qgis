@@ -51,3 +51,28 @@ published: true
 <br>
 
 ![Pulitzer's Longbill](/qgis/img/Pulizters_Longbill.jpeg){:height="600px" width="800px"}
+
+<br>
+  <br>
+    <br>
+      <br>
+      
+### **Demo Data**
+Our data we'll use today comes from here:
+> [NHGIS State Boundaries](https://data2.nhgis.org/main)
+> 
+> [Boston Census Tracts](https://data.boston.gov/group/geospatial)
+> 
+> [Boston Buildings via QuickOSM Plug-In](https://wiki.openstreetmap.org/wiki/Map_features)
+
+<br>
+  <br>
+    <br>
+      <br>
+      
+### **During the Demo**
+Copy and paste the text below as needed
+> * State shapefile: `Contiguous United States Boundaries`
+> 
+> * Superfund sites: `United States Superfund Sites`
+
