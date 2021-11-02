@@ -50,7 +50,7 @@ published: true
 
 <br>
 
-![Pulitzer's Longbill](/qgis/img/Pulizters_Longbill.jpeg){:height="600px" width="800px"}
+![boston](/qgis/img/Boston.png){:height="600px" width="800px"}
 
 <br>
   <br>
