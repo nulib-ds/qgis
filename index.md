@@ -31,7 +31,7 @@ published: true
     <br>
 
 ### **Workshop Goal**
-> This workshop is meant to serve as an introduction to the open-sourced application QGIS. It's *completely* fine if this is your first time using QGIS, or GIS in general. We're here to support you.
+> This workshop is meant to serve as an introduction to the open-sourced application QGIS. It’s a simple workshop, where you will be able to replicate some of the steps we cover today.
 
 <br>
   <br>
