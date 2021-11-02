@@ -72,9 +72,9 @@ Our data we'll use today comes from here:
       
 ### **During the Demo**
 We will attempt to answer the following questions:
-> What % of buildings are at potential risk for flooding? 
+> 1. What % of buildings are at potential risk for flooding? 
 > 
-> What % of buildings are at-risk for flooding within a 20-meter buffer? 
+> 2. What % of buildings are at-risk for flooding within a 20-meter buffer? 
 > 
-> Which Census tracts will experience the greatest risk of flooding damage to 	buildings?
+> 3. Which Census tracts will experience the greatest risk of flooding damage to 	buildings?
 
