@@ -20,7 +20,7 @@ are attributes that specify the type of data an object can hold.
 ### **Data formats**
 are specific or preferred file extensions for sharing, re-use, and preserving data.
 
-> **Vector data** includes formats like *shapefiles*. Shapefiles are GIS-specific data formats used in both proprietary and open-source software. 
+> **Vector data** includes formats like *shapefiles*. Shapefiles are GIS-specific data formats used in both proprietary and open-source software. Common vector formats include .shp, GeoJSON, and KML. 
 > 
 > ![vector_example](/qgis/img/vector_examples.png)
 > <h7><a href="https://gsp.humboldt.edu/olm/Lessons/GIS/08%20Rasters/RasterToVector.html">Humbolt State University</a></h7>
@@ -29,7 +29,7 @@ are specific or preferred file extensions for sharing, re-use, and preserving da
   <br>
     <br>
 
-> **Raster data** stores information in a grid of cells, where each cell holds a value. 
+> **Raster data** stores information in a grid of cells, where each cell holds a value. Common formats include JPG, TIFF, DEM, and PNG.
 > 
 > ![raster_example](/qgis/img/raster_examples.png)
 > <h7><a href="https://ucladataguides.readthedocs.io/en/latest/working_with_mapping/agol.html">UCLA</a></h7>
