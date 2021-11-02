@@ -71,8 +71,10 @@ Our data we'll use today comes from here:
       <br>
       
 ### **During the Demo**
-Copy and paste the text below as needed
-> * State shapefile: `Contiguous United States Boundaries`
+We will attempt to answer the following questions:
+> What % of buildings are at potential risk for flooding? 
 > 
-> * Superfund sites: `United States Superfund Sites`
+> What % of buildings are at-risk for flooding within a 20-meter buffer? 
+> 
+> Which Census tracts will experience the greatest risk of flooding damage to 	buildings?
 
