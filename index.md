@@ -65,7 +65,7 @@ Our data we'll use today comes from here:
 > 
 > [Boston Buildings via QuickOSM Plug-In](https://wiki.openstreetmap.org/wiki/Map_features)
 >
-> [Climate Ready Boston Social Vulnerability](https://data.boston.gov/dataset/climate-ready-boston-social-vulnerability)
+> [Climate Ready Boston Social Vulnerability](https://data.boston.gov/dataset/climate-ready-boston-social-vulnerability1)
 
 <br>
   <br>
