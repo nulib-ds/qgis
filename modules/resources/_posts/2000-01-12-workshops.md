@@ -8,7 +8,7 @@ title: Workshop schedule
 
 <br>
 
-<iframe src="https://planitpurple.northwestern.edu/" width=900px height=500px></iframe> 
+<iframe src="https://planitpurple.northwestern.edu/#search=/0/8//%22GIS%22" width=900px height=500px></iframe> 
 
 <br>
 
