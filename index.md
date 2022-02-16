@@ -78,5 +78,5 @@ We will attempt to answer the following questions:
 > 
 > 2. What % of buildings are at-risk for flooding within a 20-meter buffer? 
 > 
-> 3. Which Census tracts will experience the greatest risk of flooding damage to 	buildings?
+> 3. Which Census tracts have older populations more vulnerable to climate change?
 
