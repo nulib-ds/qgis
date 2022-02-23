@@ -24,6 +24,8 @@ published: true
     
 > * Don't have QGIS downloaded yet? Get it [here.](https://www.qgis.org/en/site/forusers/download.html)
 > 
+> * QGIS is compatible with Mac and Windows OS.
+> 
 > * Want to follow along the demo? [Download Data](https://northwestern.box.com/s/el7hg55tlrahohrguowawdwy1mij9ukj)
 
 <br>
