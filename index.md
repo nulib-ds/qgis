@@ -30,14 +30,12 @@ published: true
 
 <br>
   <br>
-    <br>
 
 ### **Workshop Goal**
-> This workshop is meant to serve as an introduction to the open-sourced application QGIS. It’s a simple workshop, where you will be able to replicate some of the steps we cover today.
+> This workshop is meant to serve as an introduction to the open-sourced application QGIS. It’s a simple workshop, meant to introduce basic mapping concepts and workflows. You'll also learn about NU's GIS resources, services, and where you can find support for your projects. NU resources.
 
 <br>
   <br>
-    <br>
 
 ### **Learning Outcomes** 
 > * Understand what GIS is
@@ -46,18 +44,13 @@ published: true
 > 
 > * Knowledge of basic analysis functions
 > 
-> * Resources and support opportunities 
+> * Understand basic mapping functions and tools 
 > 
-> * Ability to make and export a map using QGIS like this one:
-
-<br>
-
-![boston](/qgis/img/Boston.png){:height="600px" width="800px"}
+> * Ability to make and export a map using QGIS
 
 <br>
   <br>
     <br>
-      <br>
       
 ### **Demo Data**
 Our data we'll use today comes from here:
@@ -68,17 +61,3 @@ Our data we'll use today comes from here:
 > [Boston Buildings via QuickOSM Plug-In](https://wiki.openstreetmap.org/wiki/Map_features)
 >
 > [Climate Ready Boston Social Vulnerability](https://data.boston.gov/dataset/climate-ready-boston-social-vulnerability1)
-
-<br>
-  <br>
-    <br>
-      <br>
-      
-### **During the Demo**
-We will attempt to answer the following questions:
-> 1. What % of buildings are at potential risk for flooding? 
-> 
-> 2. What % of buildings are at-risk for flooding within a 20-meter buffer? 
-> 
-> 3. Which Census tracts have older populations more vulnerable to climate change?
-
