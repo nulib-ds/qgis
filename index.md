@@ -50,7 +50,6 @@ published: true
 
 <br>
   <br>
-    <br>
       
 ### **Demo Data**
 Our data we'll use today comes from here:
