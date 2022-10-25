@@ -32,7 +32,7 @@ published: true
   <br>
 
 ### **Workshop Goal**
-> This workshop is meant to serve as an introduction to the open-sourced application QGIS. It’s a simple workshop, meant to introduce basic mapping concepts and workflows. You'll also learn about NU's GIS resources, services, and where you can find support for your projects. NU resources.
+> This workshop is meant to serve as an introduction to the open-sourced application QGIS. It’s a simple workshop, meant to introduce basic mapping concepts and workflows. You'll also learn about NU's GIS resources, services, and where you can find support for your projects.
 
 <br>
   <br>
