@@ -54,10 +54,8 @@ published: true
       
 ### **Demo Data**
 Our data we'll use today comes from here:
-> [NHGIS State Boundaries](https://data2.nhgis.org/main)
+> [US County 2020 Boundaries](https://data2.nhgis.org/main)
 > 
-> [Boston Census Tracts](https://data.boston.gov/group/geospatial)
+> [US 2020 Population](https://data2.nhgis.org/main)
 > 
-> [Boston Buildings via QuickOSM Plug-In](https://wiki.openstreetmap.org/wiki/Map_features)
->
-> [Climate Ready Boston Social Vulnerability](https://data.boston.gov/dataset/climate-ready-boston-social-vulnerability1)
+> [Meteorite Landings](https://data.nasa.gov/Space-Science/Meteorite-Landings/gh4g-9sfh)
