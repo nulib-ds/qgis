@@ -26,7 +26,7 @@ published: true
 > 
 > * QGIS is compatible with Mac and Windows OS.
 > 
-> * Want to follow along the demo? [Download Data](https://northwestern.box.com/s/el7hg55tlrahohrguowawdwy1mij9ukj)
+> * Want to follow along the demo? [Download Data](https://nuwildcat.sharepoint.com/:u:/s/lib/rls/EW1xJ1IU0pxMkI3Pfdu50mIB_zIfueVqFwS8SBkzu2elUg?e=r6gt3I)
 
 <br>
   <br>
