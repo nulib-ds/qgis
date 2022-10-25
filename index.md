@@ -56,6 +56,6 @@ published: true
 Our data we'll use today comes from here:
 > [US County 2020 Boundaries](https://data2.nhgis.org/main)
 > 
-> [US 2020 Population](https://data2.nhgis.org/main)
+> [US 2020 Population by County](https://data2.nhgis.org/main)
 > 
 > [Meteorite Landings](https://data.nasa.gov/Space-Science/Meteorite-Landings/gh4g-9sfh)
