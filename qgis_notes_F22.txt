@@ -1,0 +1,52 @@
+QGIS Workshop | Fall Quarter 2022
+
+_ QGIS homepage: https://qgis.org/en/site/forusers/download.html
+
+_ Basics
+	_ Save project
+	_ View tab
+		_ Open browsers and panes 
+		_ Select "Browser" and "Layers"
+	_ Toolbox search
+	_ Plug-ins
+		_ Download QuickMapServices 
+		_ Search for basemaps - try hillshade, stamen toner
+		_ Add esri light gray
+		_ remove layers
+
+_ Add Data
+	_ Download Data
+		_ unzip / check out demo links
+	_ Add in county 2020
+		_ Attribute Table
+		_ Change symbology 
+	_ Add in pop2020.xlsx
+		_ Attribute Table
+
+_ Spatial Tool
+	_ Join Attributes by Field Value
+		_ Choropleth map
+		_ Make Joined Layer permanent 
+		_ Rename layer
+
+	_ Dissolve tool 
+	_ Fix Geometries tool
+	_ Symbology
+
+_ Add Meteorite Data
+	_ Open Data Management Button
+	_ Open Layer Stylying 
+		_ Go to Size > Assistant...
+		_ Source == mass(g)
+		_ Refresh Values From to
+		
+		_ To add a legend go to 
+		_ Advanced >> Data-defined Size Legend
+		_ Collapsed Legend >> Align symbols >> Title
+		_ Change color
+
+
+_ Export your map
+
+
+_ add projection
